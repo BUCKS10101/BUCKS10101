@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BUCKS10101
-- 👀 I’m interested in cyber security  
-- 🌱 I’m currently learning Btech CSE cyber security
-- 💞️ I’m looking to collaborate on anything related with cyber security
+Aight hi am Bucks(just a tag)
+I do Cyber sec and am on this footpath of collectin all em certificates
+I wudn't mind collab-ing but am just starting out
+I am currently takin bachelors in Computer science with a major in cyber security
 
 
 <!---
