@@ -1,7 +1,7 @@
-Aight hi am Bucks(just a tag)
-I do Cyber sec and am on this footpath of collectin all em certificates
-I wudn't mind collab-ing but am just starting out
-I am currently takin bachelors in Computer science with a major in cyber security
+<h1>Aight hi am Bucks(just a tag)</h1>
+<h2>I do Cyber sec and am on this path of collectin all em certificates</h2>
+<h2>I wudn't mind collab-ing but am just starting out</h2>
+<h2>I am currently takin bachelors in Computer science with a major in cyber security</h2>
 
 
 <!---
